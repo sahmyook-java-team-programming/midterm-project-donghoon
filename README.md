@@ -9,4 +9,4 @@
 
 # 커뮤니케이션 다이어그램
 [커뮤니케이션 다이어그램](https://whimsical.com/AQHDkhVPUZzoojypGrnYm8)
-
+<img src="./src/main/resources/diagram.png">
